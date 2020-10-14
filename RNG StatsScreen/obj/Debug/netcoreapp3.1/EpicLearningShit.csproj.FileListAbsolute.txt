@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\EpicLearningShit\EpicLearningShit\bin\Debug\netcoreapp3.1\EpicLearningShit.exe
+C:\Users\User\source\repos\EpicLearningShit\EpicLearningShit\bin\Debug\netcoreapp3.1\EpicLearningShit.deps.json
+C:\Users\User\source\repos\EpicLearningShit\EpicLearningShit\bin\Debug\netcoreapp3.1\EpicLearningShit.runtimeconfig.json
+C:\Users\User\source\repos\EpicLearningShit\EpicLearningShit\bin\Debug\netcoreapp3.1\EpicLearningShit.runtimeconfig.dev.json
+C:\Users\User\source\repos\EpicLearningShit\EpicLearningShit\bin\Debug\netcoreapp3.1\EpicLearningShit.dll
+C:\Users\User\source\repos\EpicLearningShit\EpicLearningShit\bin\Debug\netcoreapp3.1\EpicLearningShit.pdb
+C:\Users\User\source\repos\EpicLearningShit\EpicLearningShit\obj\Debug\netcoreapp3.1\EpicLearningShit.csprojAssemblyReference.cache
+C:\Users\User\source\repos\EpicLearningShit\EpicLearningShit\obj\Debug\netcoreapp3.1\EpicLearningShit.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EpicLearningShit\EpicLearningShit\obj\Debug\netcoreapp3.1\EpicLearningShit.AssemblyInfo.cs
+C:\Users\User\source\repos\EpicLearningShit\EpicLearningShit\obj\Debug\netcoreapp3.1\EpicLearningShit.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EpicLearningShit\EpicLearningShit\obj\Debug\netcoreapp3.1\EpicLearningShit.dll
+C:\Users\User\source\repos\EpicLearningShit\EpicLearningShit\obj\Debug\netcoreapp3.1\EpicLearningShit.pdb
+C:\Users\User\source\repos\EpicLearningShit\EpicLearningShit\obj\Debug\netcoreapp3.1\EpicLearningShit.genruntimeconfig.cache
